@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prettier": "prettier --write ."
   },
   "dependencies": {
     "@types/node": "18.15.3",
@@ -21,5 +22,8 @@
   },
   "engines": {
     "node": ">=16.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
   }
 }
