@@ -1,0 +1,7 @@
+2023-03-18 04:59:11 [development] info: Hello, Next.js!
+2023-03-18 05:00:49 [development] info: {}
+2023-03-18 05:01:11 [development] info: {}
+2023-03-18 05:07:01 [development] info: {}
+2023-03-18 05:14:40 [development] info: request: {"user-agent":"PostmanRuntime/7.31.1","accept":"*/*","postman-token":"399def48-88c0-4620-9f06-2fe110658974","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+2023-03-18 05:15:10 [development] info: request: {"user-agent":"PostmanRuntime/7.31.1","accept":"*/*","postman-token":"f55c5a4d-5a6a-4de9-abd2-3cc68d82df30","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+2023-03-18 05:15:10 [development] error: error: {"user-agent":"PostmanRuntime/7.31.1","accept":"*/*","postman-token":"f55c5a4d-5a6a-4de9-abd2-3cc68d82df30","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
